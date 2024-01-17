@@ -7,8 +7,7 @@ This repository contains the code for a machine learning project focused on reco
 
 - **Data:** The dataset used for training and testing is stored in the file `Crop_recommendation.csv`.
 - **Code:** The Python code for the project is organized into a Jupyter Notebook named `Crop_Recommendation.ipynb`.
-- **Models:** Trained models are saved for future use. The Decision Tree model is saved as `DecisionTree.pkl`, and the Gaussian Naive Bayes model is saved as `NBClassifier.pkl`.
-- **Requirements:** The necessary libraries and dependencies are listed in the `requirements.txt` file.
+- **Models:** Trained models are saved for future use. The Decision Tree model is saved as `DecisionTree.pkl`, Randomforest is saved as `RandomForest.pkl` and the Gaussian Naive Bayes model is saved as `NBClassifier.pkl`.
 
 ## Results
 
