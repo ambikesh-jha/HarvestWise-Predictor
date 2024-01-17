@@ -5,8 +5,8 @@ This repository contains the code for a machine learning project focused on reco
 
 ## Project Structure
 
-- **Data:** The dataset used for training and testing is stored in the file `Crop_recommendation.csv`.
-- **Code:** The Python code for the project is organized into a Jupyter Notebook named `Crop_Recommendation.ipynb`.
+- **Data:** The dataset used for training and testing is stored in the file `HarvestWise-Predictor.csv`.
+- **Code:** The Python code for the project is organized into a colab Notebook named `HarvestWise-Predictor.ipynb`.
 - **Models:** Trained models are saved for future use. The Decision Tree model is saved as `DecisionTree.pkl`, Randomforest is saved as `RandomForest.pkl` and the Gaussian Naive Bayes model is saved as `NBClassifier.pkl`.
 
 ## Results
@@ -19,5 +19,5 @@ This repository contains the code for a machine learning project focused on reco
 
 ## Data
 
-The dataset (`Crop_recommendation.csv`) contains information about soil and environmental conditions, including N (Nitrogen), P (Phosphorous), K (Potassium), temperature, humidity, pH, rainfall, and the corresponding crop labels.
+The dataset (`HarvestWise-Predictor.csv`) contains information about soil and environmental conditions, including N (Nitrogen), P (Phosphorous), K (Potassium), temperature, humidity, pH, rainfall, and the corresponding crop labels.
 
